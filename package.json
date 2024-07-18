@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-next-app": "^14.2.5",
+    "d3": "^7.9.0"
+  }
+}
